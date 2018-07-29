@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Kickstarter Campaigns</title>
+    <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nos...">
+
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/jquery.fullpage.min.css">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic,500" type="text/css">
+    <link type="text/css" rel="stylesheet" href="style.css" />
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+
+</head>
+
+<body>
+    <style>
+        .gradient-1 {
+            background: #abbaab;
+            background: -webkit-linear-gradient(to bottom, #004551, #abbaab);
+            background: linear-gradient(to bottom, #004551, #abbaab);
+        }
+
+        h1,
+        h2,
+        h3,
+        h4 {
+            color: #004551;
+        }
+
+        .btn-secondary {
+            color: #ECE9E6;
+            background-color: #004551;
+            border-color: #ECE9E6;
+        }
+
+        .tab-base {
+            padding-top: 75px;
+        }
+
+        .axis path,
+        .axis line {
+            fill: none;
+            stroke: #000;
+        }
+
+        path.domain {
+            stroke: none;
+        }
+
+        .y .tick line {
+            stroke: #ddd;
+        }
+
+        .specialrect {
+            border: 2px solid black;
+        }
+
+        path {
+            stroke: black;
+            fill: none;
+        }
+
+        line {
+            stroke: black;
+        }
+
+        path.marker {
+            fill: black;
+        }
+
+        p {
+            font-size: .8em;
+        }
+
+        h4 {
+            font-size: .1.0em
+        }
+
+        a {
+            font-size: .8em !important;
+        }
+    </style>
+    <nav class="navbar navbar-expand-md navbar-dark fixed-top" style="background-color: #004551">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
+            aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mx-auto" id="menu">
+                <a class="navbar-brand" href="#">Kickstarter Campaigns</a>
+
+
+                <li class="nav-item" data-menuanchor="01-intro">
+                    <a class="nav-link" href="#01-intro">About the Visualization</a>
+                </li>
+
+
+                <li class="nav-item" data-menuanchor="02-first-content">
+                    <a class="nav-link" href="#02-first-content">Quantifying Projects</a>
+                </li>
+
+
+                <li class="nav-item" data-menuanchor="03-second-content">
+                    <a class="nav-link" href="#03-second-content">Rates of Succes</a>
+                </li>
+
+
+                <li class="nav-item" data-menuanchor="04-third-content">
+                    <a class="nav-link" href="#04-third-content">Closing</a>
+                </li>
+
+            </ul>
+        </div>
+    </nav>
+
+    <script type="text/javascript">
+        var anchors = [
+
+
+            '01-intro',
+
+
+            '02-first-content',
+
+
+            '03-second-content',
+
+
+            '04-third-content'
+
+        ]
+    </script>
+
+    <div id="fullpage">
+        <div class="section tab-base gradient-1" style="position: relative;">
+            <div class="container">
+                <div class="card">
+                    <div class="card-body cloud-gradient about">
+                        <h4>About the Visualization</h4>
+
+                        <p>Kickstarter is a crowd-funding platform for entrepreneurs, early stage start-ups and really anyone
+                            with a great idea to raise funds for their idea and starting businesses. The idea is simple,
+                            mass audience will fund your idea if they think it is worthy. In exchange the seller promises
+                            some sort of product or service rendered in the future. It is a great place to to start testing
+                            the adoption of your idea or product before putting forward the work to even create it. A lot
+                            of entrepreneurs use the platform as a tool to test the demand for a given service or product,
+                            making the platform a first go-to resources for many.
+                            <p>
+                                Not all projects on Kickstarter are equal though. This kind of comparison can be made several ways. How popular a given project
+                                genre is from the entrepreneurs' perspective is one way to gauge popularity. This would indicate
+                                a lot of interest from the creators to provide products and services in that category. Another
+                                way to quantify project popularity is to see how the response from the crowd is. How well
+                                is the buyer audience responding to certain project categories. This type of evaluation will
+                                dictate what buyers are ultimately willing pay for an idea that has yet to come to fruition.
+                                <p>
+                                    There are more ways to measure these projects in a more business-savvy aspect as well. For instance which types of projects
+                                    end up succeeding (reaching their requested goal in USD) vs. those that do not (which
+                                    dont get anything). This can be a very valuable metric when deciding if this is the right
+                                    platform or if your future business is in demand.
+                                    <p>
+
+                                        The following visualizations provide some insight on some of these metrics. Each visualization is rendered in its own scene.
+                                        At the top of the scene layout will be a description and purpose of the visualization
+                                        followed by some buttons to alter visualization parameters. After that the visualization
+                                        will be rendered for the user to explore the presented data to gather some insight.
+                                        Each scene layout also houses some navigation buttons as well as the kickstarter
+                                        logo to keep the global context of all the scenes.
+                                    </p>
+                                    <p>
+                                        This essay will continue on each scene to go into further detail of the visualizations via an interactive slideshow. Please
+                                        continue by either scrolling down or clicking on the down arrow which is location
+                                        on the lower left of the window.
+
+                                    </p>
+                    </div>
+                </div>
+
+            </div>
+            <img src="./2000px-Kickstarter_logo_2017.svg.png" style="position:absolute; bottom:10px;right:10px; height:7.5%" />
+            <a href="#02-first-content" class="btn btn-lg btn-secondary" style="position:absolute; bottom:10px; left:10px">&#x25BC;</a>
+        </div>
+
+
+        <div class="section tab-base metalic-gradient" style="position: relative;">
+            <div class="container">
+                <div class="inner cover treemap-wrapper">
+                    <h4 class="cover-heading">Quantifying Projects</h4>
+                    <p>
+                        <strong>Quantifying Projects Treemap</strong> - This visualization is intended to help the user get an idea
+                        of which project categories are more popular than others based off preset metrics, number of projects
+                        and number of backers. Please explore the data via the treemap below, think about what kind of projects
+                        are more popular than others.
+                        <br/> The viewer can interact with the treemap with the following aspects:
+                        <br/>
+                        <b>Parameters</b>: The data can be targeted towards number of projects or number of backers by the buttons
+                        above the visual.
+                        <br/>
+                        <b>Triggers</b>: Clicking on a common color (which indicates main category) will drill down into that
+                        category to view the sub categories. The viewer can also hover over individual boxes to get a popup
+                        with more detailed information. This is also useful for boxes where the name of the category cannot
+                        fit, hovering will reveal the boxes information.
+                        <br/>
+                        <b>Annotations</b>: There exists a single box outlined in dark red. This annotation brings attention
+                        towards the highest ratio of number of backers to number of projects (highest average backers per
+                        project). This is to bring attention that even though other boxes may be more popular due to strict
+                        metrics alone, we can still evaluate based on popularity ratios. This annotation will hide itself
+                        when drilling down into other main categories.
+
+                    </p>
+                    <p class="lead">
+                        <a href="#" class="btn btn-lg btn-secondary adjustByBackers">By # of Backers</a>
+                        <a href="#" class="btn btn-lg btn-secondary adjsutByProjects">By # of Projects</a>
+                        <a href="#" class="btn btn-lg btn-secondary adjsutByGoal">By Goal Target in $USD</a>
+                    </p>
+
+
+                </div>
+
+
+
+            </div>
+            <img src="./2000px-Kickstarter_logo_2017.svg.png" style="position:absolute; bottom:10px;right:10px; height:3%" />
+            <a href="#01-intro" class="btn btn-lg btn-secondary" style="position:absolute; bottom:10px; left:60px;">&#x25B2;</a>
+            <a href="#03-second-content" class="btn btn-lg btn-secondary" style="position:absolute; bottom:10px; left:10px">&#x25BC;</a>
+        </div>
+
+
+        <div class="section tab-base metalic-gradient" style="position: relative;">
+            <div class="container">
+                <div class="inner cover stackedbar-wrapper">
+                    <h4 class="cover-heading">Chance of Success</h4>
+                    <p>
+                        <strong>Project State Stacked Bar Chart</strong> - This visualization is intended to help the user get an
+                        idea of which project categories are more successful than others. The targeted intuition of this
+                        chart is to notice that just because a project type is not the most popular, it can be more successful
+                        which is a powerful insight.
+                        <br/> The viewer can interact with the stacked bar chart with the following aspects:
+                        <br/>
+                        <b>Parameters</b>: The data can be targeted towards number of projects or precentage of success.
+                        <br/>
+                        <b>Triggers</b>: Clicking on a bar will drill down into the catories sub categories. Also hovering will
+                        introduce a popup.
+                        <br/>
+                        <b>Annotations</b>: Right from the start of the visualization there are two annotations that leads the
+                        viewer to notice that even though there are much more successful projects in other categories, there
+                        does exist other categoires with higher rate of success. When switching parameters, another annotation
+                        appears that informs the user that a category that aims to raise the highest goals in USD is the
+                        least likely to succeed.
+
+                    </p>
+                    <p class="lead">
+                        <a href="#" class="btn btn-lg btn-secondary adjustByProjects2">By # of Projects</a>
+                        <a href="#" class="btn btn-lg btn-secondary adjustByPercent">By % of Each Project State</a>
+                    </p>
+                </div>
+                <img src="./2000px-Kickstarter_logo_2017.svg.png" style="position:absolute; bottom:10px;right:10px; height:3%" />
+                <a href="#02-first-content" class="btn btn-lg btn-secondary" style="position:absolute; bottom:10px; left:60px;">&#x25B2;</a>
+                <a href="#04-third-content" class="btn btn-lg btn-secondary" style="position:absolute; bottom:10px; left:10px">&#x25BC;</a>
+            </div>
+
+        </div>
+
+
+        <div class="section tab-base cloud-gradient">
+            <div class="container">
+                <div class="inner cover">
+                    <h4>Closing</h4>
+
+                    <p>Hopefully the visualizations gave some insight on how various kickstarter projects perform. A conclusion
+                        can be made that even though Film, Design and Games are much more popular in terms of pure number
+                        of projects, there seems to be more of a demand for theater and dance projects in regards to the
+                        ration per number of projects started.</p>
+
+                    <p>I am planning to start a kickstarter campaign myself and this insight has helped me gauge my changes
+                        of success. I will continue to gether further insight on other factors as well such as how well a
+                        project obtains its goal funds successfully vs how much the project goal is asking to raise. This
+                        will also narrow down certain success factors for weighing starting a campaign.
+                    <br/>
+                    <br/>
+                    <p>This project was created for UIUC CS498 - Data Visualization. 2 class project.</p>
+
+
+                </div>
+                <img src="./2000px-Kickstarter_logo_2017.svg.png" style="position:absolute; bottom:10px;right:10px; height:3%" />
+                <a href="#03-second-content" class="btn btn-lg btn-secondary" style="position:absolute; bottom:10px; left:10px">&#x25BC;</a>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
+        crossorigin="anonymous"></script>
+    <script src="/js/bootstrap.min.js "></script>
+    <script src="/js/jquery.fullpage.min.js "></script>
+    <script src="/js/main.js "></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/linq.js/2.2.0.2/linq.min.js"></script>
+    <script src="/js/treemap.js "></script>
+    <script src="/js/stackedbar.js "></script>
+</body>
+
+</html>

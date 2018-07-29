@@ -1,0 +1,1702 @@
+[
+    {
+        "main_category": "Art",
+        "category": "Art",
+        "backers": 369311,
+        "numproj": 8253,
+        "totalgoal": 391113378.27000034,
+        "successful": 3385,
+        "canceled": 669,
+        "failed": 4101
+    },
+    {
+        "main_category": "Art",
+        "category": "Ceramics",
+        "backers": 14553,
+        "numproj": 305,
+        "totalgoal": 3952272.65,
+        "successful": 132,
+        "canceled": 27,
+        "failed": 143
+    },
+    {
+        "main_category": "Art",
+        "category": "Conceptual Art",
+        "backers": 27651,
+        "numproj": 1030,
+        "totalgoal": 44350479.88999999,
+        "successful": 366,
+        "canceled": 86,
+        "failed": 564
+    },
+    {
+        "main_category": "Art",
+        "category": "Digital Art",
+        "backers": 43798,
+        "numproj": 1346,
+        "totalgoal": 14221205.539999992,
+        "successful": 371,
+        "canceled": 158,
+        "failed": 800
+    },
+    {
+        "main_category": "Art",
+        "category": "Illustration",
+        "backers": 205419,
+        "numproj": 3175,
+        "totalgoal": 91762619.62999982,
+        "successful": 1626,
+        "canceled": 235,
+        "failed": 1264
+    },
+    {
+        "main_category": "Art",
+        "category": "Installations",
+        "backers": 23221,
+        "numproj": 482,
+        "totalgoal": 72541436.57999995,
+        "successful": 233,
+        "canceled": 35,
+        "failed": 203
+    },
+    {
+        "main_category": "Art",
+        "category": "Mixed Media",
+        "backers": 82735,
+        "numproj": 2757,
+        "totalgoal": 40294917.25000005,
+        "successful": 945,
+        "canceled": 221,
+        "failed": 1568
+    },
+    {
+        "main_category": "Art",
+        "category": "Painting",
+        "backers": 73435,
+        "numproj": 3294,
+        "totalgoal": 126773617.09000002,
+        "successful": 1149,
+        "canceled": 228,
+        "failed": 1886
+    },
+    {
+        "main_category": "Art",
+        "category": "Performance Art",
+        "backers": 66739,
+        "numproj": 2154,
+        "totalgoal": 28692062.780000012,
+        "successful": 934,
+        "canceled": 167,
+        "failed": 1040
+    },
+    {
+        "main_category": "Art",
+        "category": "Public Art",
+        "backers": 189899,
+        "numproj": 3077,
+        "totalgoal": 249057560.96,
+        "successful": 1543,
+        "canceled": 210,
+        "failed": 1307
+    },
+    {
+        "main_category": "Art",
+        "category": "Sculpture",
+        "backers": 79753,
+        "numproj": 1810,
+        "totalgoal": 26540828.580000028,
+        "successful": 698,
+        "canceled": 146,
+        "failed": 959
+    },
+    {
+        "main_category": "Art",
+        "category": "Textiles",
+        "backers": 7247,
+        "numproj": 276,
+        "totalgoal": 9238614.53,
+        "successful": 77,
+        "canceled": 24,
+        "failed": 173
+    },
+    {
+        "main_category": "Art",
+        "category": "Video Art",
+        "backers": 4439,
+        "numproj": 194,
+        "totalgoal": 5018512.97,
+        "successful": 51,
+        "canceled": 16,
+        "failed": 123
+    },
+    {
+        "main_category": "Comics",
+        "category": "Anthologies",
+        "backers": 119365,
+        "numproj": 405,
+        "totalgoal": 3722143.92,
+        "successful": 303,
+        "canceled": 16,
+        "failed": 83
+    },
+    {
+        "main_category": "Comics",
+        "category": "Comic Books",
+        "backers": 238323,
+        "numproj": 2743,
+        "totalgoal": 15670888.629999997,
+        "successful": 1614,
+        "canceled": 214,
+        "failed": 879
+    },
+    {
+        "main_category": "Comics",
+        "category": "Comics",
+        "backers": 643900,
+        "numproj": 4996,
+        "totalgoal": 164392422.25000006,
+        "successful": 2506,
+        "canceled": 392,
+        "failed": 2075
+    },
+    {
+        "main_category": "Comics",
+        "category": "Events",
+        "backers": 8023,
+        "numproj": 163,
+        "totalgoal": 1990826.7499999995,
+        "successful": 50,
+        "canceled": 16,
+        "failed": 90
+    },
+    {
+        "main_category": "Comics",
+        "category": "Graphic Novels",
+        "backers": 285759,
+        "numproj": 1864,
+        "totalgoal": 18426536.080000006,
+        "successful": 1011,
+        "canceled": 160,
+        "failed": 668
+    },
+    {
+        "main_category": "Comics",
+        "category": "Webcomics",
+        "backers": 162720,
+        "numproj": 648,
+        "totalgoal": 7540490.779999997,
+        "successful": 358,
+        "canceled": 44,
+        "failed": 241
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Candles",
+        "backers": 5038,
+        "numproj": 429,
+        "totalgoal": 2446283.9999999986,
+        "successful": 55,
+        "canceled": 49,
+        "failed": 323
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Crafts",
+        "backers": 146691,
+        "numproj": 4664,
+        "totalgoal": 44945157.3899999,
+        "successful": 1162,
+        "canceled": 451,
+        "failed": 2990
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Crochet",
+        "backers": 1272,
+        "numproj": 162,
+        "totalgoal": 598328.9999999999,
+        "successful": 35,
+        "canceled": 11,
+        "failed": 116
+    },
+    {
+        "main_category": "Crafts",
+        "category": "DIY",
+        "backers": 20581,
+        "numproj": 1173,
+        "totalgoal": 20923312.13000002,
+        "successful": 183,
+        "canceled": 109,
+        "failed": 834
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Embroidery",
+        "backers": 1588,
+        "numproj": 113,
+        "totalgoal": 503131.89999999997,
+        "successful": 19,
+        "canceled": 12,
+        "failed": 81
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Glass",
+        "backers": 2592,
+        "numproj": 138,
+        "totalgoal": 1163545.6099999999,
+        "successful": 38,
+        "canceled": 14,
+        "failed": 84
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Knitting",
+        "backers": 10990,
+        "numproj": 181,
+        "totalgoal": 1084826.1900000004,
+        "successful": 85,
+        "canceled": 16,
+        "failed": 79
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Letterpress",
+        "backers": 3372,
+        "numproj": 38,
+        "totalgoal": 202275.74999999997,
+        "successful": 25,
+        "canceled": 1,
+        "failed": 11
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Pottery",
+        "backers": 4877,
+        "numproj": 100,
+        "totalgoal": 730765.5400000003,
+        "successful": 44,
+        "canceled": 8,
+        "failed": 44
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Printing",
+        "backers": 4421,
+        "numproj": 238,
+        "totalgoal": 1852748.56,
+        "successful": 49,
+        "canceled": 41,
+        "failed": 146
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Quilts",
+        "backers": 1893,
+        "numproj": 81,
+        "totalgoal": 958721.4199999999,
+        "successful": 19,
+        "canceled": 6,
+        "failed": 56
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Stationery",
+        "backers": 10225,
+        "numproj": 219,
+        "totalgoal": 828413.0800000004,
+        "successful": 77,
+        "canceled": 24,
+        "failed": 113
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Taxidermy",
+        "backers": 519,
+        "numproj": 13,
+        "totalgoal": 321390.12,
+        "successful": 5,
+        "canceled": 1,
+        "failed": 5
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Weaving",
+        "backers": 3671,
+        "numproj": 93,
+        "totalgoal": 1823907.0699999998,
+        "successful": 27,
+        "canceled": 8,
+        "failed": 55
+    },
+    {
+        "main_category": "Crafts",
+        "category": "Woodworking",
+        "backers": 22612,
+        "numproj": 1167,
+        "totalgoal": 13534405.240000004,
+        "successful": 292,
+        "canceled": 92,
+        "failed": 766
+    },
+    {
+        "main_category": "Dance",
+        "category": "Dance",
+        "backers": 106193,
+        "numproj": 2322,
+        "totalgoal": 18189072.27,
+        "successful": 1542,
+        "canceled": 96,
+        "failed": 676
+    },
+    {
+        "main_category": "Dance",
+        "category": "Performances",
+        "backers": 40469,
+        "numproj": 1013,
+        "totalgoal": 11277747.159999996,
+        "successful": 624,
+        "canceled": 39,
+        "failed": 337
+    },
+    {
+        "main_category": "Dance",
+        "category": "Residencies",
+        "backers": 2751,
+        "numproj": 69,
+        "totalgoal": 814404.7200000001,
+        "successful": 50,
+        "canceled": 1,
+        "failed": 18
+    },
+    {
+        "main_category": "Dance",
+        "category": "Spaces",
+        "backers": 8440,
+        "numproj": 200,
+        "totalgoal": 4247614.6099999985,
+        "successful": 72,
+        "canceled": 17,
+        "failed": 106
+    },
+    {
+        "main_category": "Dance",
+        "category": "Workshops",
+        "backers": 3422,
+        "numproj": 164,
+        "totalgoal": 1599983.2100000007,
+        "successful": 50,
+        "canceled": 10,
+        "failed": 98
+    },
+    {
+        "main_category": "Design",
+        "category": "Architecture",
+        "backers": 39362,
+        "numproj": 760,
+        "totalgoal": 315000866.2599999,
+        "successful": 179,
+        "canceled": 96,
+        "failed": 463
+    },
+    {
+        "main_category": "Design",
+        "category": "Civic Design",
+        "backers": 34991,
+        "numproj": 289,
+        "totalgoal": 44472777.71,
+        "successful": 104,
+        "canceled": 15,
+        "failed": 162
+    },
+    {
+        "main_category": "Design",
+        "category": "Design",
+        "backers": 755421,
+        "numproj": 4199,
+        "totalgoal": 169476957.53999996,
+        "successful": 1413,
+        "canceled": 575,
+        "failed": 2134
+    },
+    {
+        "main_category": "Design",
+        "category": "Graphic Design",
+        "backers": 197703,
+        "numproj": 2002,
+        "totalgoal": 13757311.47000001,
+        "successful": 750,
+        "canceled": 200,
+        "failed": 1040
+    },
+    {
+        "main_category": "Design",
+        "category": "Interactive Design",
+        "backers": 18533,
+        "numproj": 398,
+        "totalgoal": 15510600.639999999,
+        "successful": 79,
+        "canceled": 51,
+        "failed": 263
+    },
+    {
+        "main_category": "Design",
+        "category": "Product Design",
+        "backers": 6178913,
+        "numproj": 22314,
+        "totalgoal": 699227886.5999992,
+        "successful": 7962,
+        "canceled": 3207,
+        "failed": 10718
+    },
+    {
+        "main_category": "Design",
+        "category": "Typography",
+        "backers": 30957,
+        "numproj": 108,
+        "totalgoal": 1626254.7200000002,
+        "successful": 63,
+        "canceled": 8,
+        "failed": 34
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Accessories",
+        "backers": 256036,
+        "numproj": 3165,
+        "totalgoal": 46473951.23999995,
+        "successful": 1073,
+        "canceled": 340,
+        "failed": 1667
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Apparel",
+        "backers": 367844,
+        "numproj": 7166,
+        "totalgoal": 239120408.1899997,
+        "successful": 1414,
+        "canceled": 864,
+        "failed": 4752
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Childrenswear",
+        "backers": 19586,
+        "numproj": 483,
+        "totalgoal": 7737936.05,
+        "successful": 95,
+        "canceled": 61,
+        "failed": 323
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Couture",
+        "backers": 3321,
+        "numproj": 275,
+        "totalgoal": 15628688.88,
+        "successful": 42,
+        "canceled": 41,
+        "failed": 185
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Fashion",
+        "backers": 564869,
+        "numproj": 8554,
+        "totalgoal": 130956198.36000009,
+        "successful": 2188,
+        "canceled": 945,
+        "failed": 5341
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Footwear",
+        "backers": 127292,
+        "numproj": 931,
+        "totalgoal": 22562099.11,
+        "successful": 298,
+        "canceled": 122,
+        "failed": 486
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Jewelry",
+        "backers": 32893,
+        "numproj": 1239,
+        "totalgoal": 13250210.479999993,
+        "successful": 301,
+        "canceled": 155,
+        "failed": 750
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Pet Fashion",
+        "backers": 4022,
+        "numproj": 139,
+        "totalgoal": 1628279.67,
+        "successful": 37,
+        "canceled": 17,
+        "failed": 82
+    },
+    {
+        "main_category": "Fashion",
+        "category": "Ready-to-wear",
+        "backers": 26130,
+        "numproj": 864,
+        "totalgoal": 34003760.01000003,
+        "successful": 145,
+        "canceled": 105,
+        "failed": 596
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Action",
+        "backers": 34708,
+        "numproj": 740,
+        "totalgoal": 234695945.32000005,
+        "successful": 107,
+        "canceled": 109,
+        "failed": 514
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Animation",
+        "backers": 333433,
+        "numproj": 2541,
+        "totalgoal": 232377785.67,
+        "successful": 682,
+        "canceled": 306,
+        "failed": 1531
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Comedy",
+        "backers": 166844,
+        "numproj": 2125,
+        "totalgoal": 178360626.07999998,
+        "successful": 819,
+        "canceled": 197,
+        "failed": 1074
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Documentary",
+        "backers": 1447677,
+        "numproj": 16139,
+        "totalgoal": 853075387.2900012,
+        "successful": 5924,
+        "canceled": 1542,
+        "failed": 8599
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Drama",
+        "backers": 80512,
+        "numproj": 2179,
+        "totalgoal": 409277787.9300001,
+        "successful": 812,
+        "canceled": 228,
+        "failed": 1101
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Experimental",
+        "backers": 9591,
+        "numproj": 551,
+        "totalgoal": 41594148.840000026,
+        "successful": 147,
+        "canceled": 61,
+        "failed": 333
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Family",
+        "backers": 13742,
+        "numproj": 336,
+        "totalgoal": 25829950.350000005,
+        "successful": 66,
+        "canceled": 36,
+        "failed": 228
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Fantasy",
+        "backers": 37105,
+        "numproj": 345,
+        "totalgoal": 198457480.58999985,
+        "successful": 106,
+        "canceled": 42,
+        "failed": 189
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Festivals",
+        "backers": 13684,
+        "numproj": 291,
+        "totalgoal": 6379271.639999999,
+        "successful": 134,
+        "canceled": 24,
+        "failed": 129
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Film & Video",
+        "backers": 479206,
+        "numproj": 10108,
+        "totalgoal": 820154987.82,
+        "successful": 3070,
+        "canceled": 558,
+        "failed": 5554
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Horror",
+        "backers": 55501,
+        "numproj": 1287,
+        "totalgoal": 187869479.44000003,
+        "successful": 397,
+        "canceled": 173,
+        "failed": 700
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Movie Theaters",
+        "backers": 23450,
+        "numproj": 232,
+        "totalgoal": 372150564.3500001,
+        "successful": 52,
+        "canceled": 26,
+        "failed": 149
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Music Videos",
+        "backers": 17623,
+        "numproj": 709,
+        "totalgoal": 11140071.799999997,
+        "successful": 240,
+        "canceled": 74,
+        "failed": 387
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Narrative Film",
+        "backers": 540739,
+        "numproj": 5188,
+        "totalgoal": 347732185.6100002,
+        "successful": 2013,
+        "canceled": 551,
+        "failed": 2605
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Romance",
+        "backers": 7316,
+        "numproj": 190,
+        "totalgoal": 11085714.579999996,
+        "successful": 55,
+        "canceled": 23,
+        "failed": 108
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Science Fiction",
+        "backers": 67693,
+        "numproj": 744,
+        "totalgoal": 301411271.03000015,
+        "successful": 272,
+        "canceled": 81,
+        "failed": 382
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Shorts",
+        "backers": 453889,
+        "numproj": 12357,
+        "totalgoal": 250109061.3300002,
+        "successful": 6673,
+        "canceled": 909,
+        "failed": 4721
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Television",
+        "backers": 75998,
+        "numproj": 1015,
+        "totalgoal": 449339085.0000002,
+        "successful": 156,
+        "canceled": 133,
+        "failed": 711
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Thrillers",
+        "backers": 26698,
+        "numproj": 746,
+        "totalgoal": 189354716.77000016,
+        "successful": 200,
+        "canceled": 95,
+        "failed": 439
+    },
+    {
+        "main_category": "Film & Video",
+        "category": "Webseries",
+        "backers": 312168,
+        "numproj": 5762,
+        "totalgoal": 133333686.50999992,
+        "successful": 1698,
+        "canceled": 587,
+        "failed": 3450
+    },
+    {
+        "main_category": "Food",
+        "category": "Bacon",
+        "backers": 5075,
+        "numproj": 221,
+        "totalgoal": 4981063.709999999,
+        "successful": 38,
+        "canceled": 27,
+        "failed": 143
+    },
+    {
+        "main_category": "Food",
+        "category": "Community Gardens",
+        "backers": 5561,
+        "numproj": 298,
+        "totalgoal": 13361747.870000001,
+        "successful": 66,
+        "canceled": 25,
+        "failed": 205
+    },
+    {
+        "main_category": "Food",
+        "category": "Cookbooks",
+        "backers": 53637,
+        "numproj": 540,
+        "totalgoal": 8110416.110000002,
+        "successful": 130,
+        "canceled": 74,
+        "failed": 325
+    },
+    {
+        "main_category": "Food",
+        "category": "Drinks",
+        "backers": 135486,
+        "numproj": 2422,
+        "totalgoal": 124371854.51000006,
+        "successful": 594,
+        "canceled": 258,
+        "failed": 1515
+    },
+    {
+        "main_category": "Food",
+        "category": "Events",
+        "backers": 9621,
+        "numproj": 655,
+        "totalgoal": 22952029.599999998,
+        "successful": 108,
+        "canceled": 68,
+        "failed": 459
+    },
+    {
+        "main_category": "Food",
+        "category": "Farmer's Markets",
+        "backers": 7608,
+        "numproj": 424,
+        "totalgoal": 14059425.569999991,
+        "successful": 70,
+        "canceled": 34,
+        "failed": 314
+    },
+    {
+        "main_category": "Food",
+        "category": "Farms",
+        "backers": 39480,
+        "numproj": 1154,
+        "totalgoal": 135331508.17999995,
+        "successful": 242,
+        "canceled": 92,
+        "failed": 804
+    },
+    {
+        "main_category": "Food",
+        "category": "Food",
+        "backers": 766977,
+        "numproj": 11493,
+        "totalgoal": 460953244.52999985,
+        "successful": 3297,
+        "canceled": 980,
+        "failed": 7119
+    },
+    {
+        "main_category": "Food",
+        "category": "Food Trucks",
+        "backers": 34446,
+        "numproj": 1752,
+        "totalgoal": 48985926.05999996,
+        "successful": 217,
+        "canceled": 152,
+        "failed": 1357
+    },
+    {
+        "main_category": "Food",
+        "category": "Restaurants",
+        "backers": 102755,
+        "numproj": 2819,
+        "totalgoal": 309227567.6500004,
+        "successful": 457,
+        "canceled": 257,
+        "failed": 2062
+    },
+    {
+        "main_category": "Food",
+        "category": "Small Batch",
+        "backers": 92287,
+        "numproj": 1808,
+        "totalgoal": 24459495.630000025,
+        "successful": 557,
+        "canceled": 157,
+        "failed": 1064
+    },
+    {
+        "main_category": "Food",
+        "category": "Spaces",
+        "backers": 29566,
+        "numproj": 428,
+        "totalgoal": 21227241.229999997,
+        "successful": 124,
+        "canceled": 40,
+        "failed": 259
+    },
+    {
+        "main_category": "Food",
+        "category": "Vegan",
+        "backers": 50252,
+        "numproj": 588,
+        "totalgoal": 18451230.369999994,
+        "successful": 185,
+        "canceled": 47,
+        "failed": 343
+    },
+    {
+        "main_category": "Games",
+        "category": "Games",
+        "backers": 269076,
+        "numproj": 3226,
+        "totalgoal": 169169824.15999982,
+        "successful": 779,
+        "canceled": 538,
+        "failed": 1854
+    },
+    {
+        "main_category": "Games",
+        "category": "Gaming Hardware",
+        "backers": 121584,
+        "numproj": 428,
+        "totalgoal": 33078589.149999995,
+        "successful": 99,
+        "canceled": 95,
+        "failed": 192
+    },
+    {
+        "main_category": "Games",
+        "category": "Live Games",
+        "backers": 24534,
+        "numproj": 1050,
+        "totalgoal": 181148503.9899999,
+        "successful": 180,
+        "canceled": 139,
+        "failed": 693
+    },
+    {
+        "main_category": "Games",
+        "category": "Mobile Games",
+        "backers": 37240,
+        "numproj": 1789,
+        "totalgoal": 53324185.26,
+        "successful": 153,
+        "canceled": 309,
+        "failed": 1290
+    },
+    {
+        "main_category": "Games",
+        "category": "Playing Cards",
+        "backers": 388885,
+        "numproj": 2497,
+        "totalgoal": 26797932.54000003,
+        "successful": 967,
+        "canceled": 438,
+        "failed": 1042
+    },
+    {
+        "main_category": "Games",
+        "category": "Puzzles",
+        "backers": 26800,
+        "numproj": 231,
+        "totalgoal": 2964377.740000001,
+        "successful": 88,
+        "canceled": 26,
+        "failed": 112
+    },
+    {
+        "main_category": "Games",
+        "category": "Tabletop Games",
+        "backers": 6049205,
+        "numproj": 14180,
+        "totalgoal": 208380561.52999997,
+        "successful": 7866,
+        "canceled": 2294,
+        "failed": 3878
+    },
+    {
+        "main_category": "Games",
+        "category": "Video Games",
+        "backers": 4419505,
+        "numproj": 11830,
+        "totalgoal": 907844359.1700017,
+        "successful": 2386,
+        "canceled": 2363,
+        "failed": 6942
+    },
+    {
+        "main_category": "Journalism",
+        "category": "Audio",
+        "backers": 22205,
+        "numproj": 410,
+        "totalgoal": 6864734.6499999985,
+        "successful": 111,
+        "canceled": 43,
+        "failed": 252
+    },
+    {
+        "main_category": "Journalism",
+        "category": "Journalism",
+        "backers": 79379,
+        "numproj": 1747,
+        "totalgoal": 108294507.90999997,
+        "successful": 472,
+        "canceled": 177,
+        "failed": 1068
+    },
+    {
+        "main_category": "Journalism",
+        "category": "Photo",
+        "backers": 4332,
+        "numproj": 196,
+        "totalgoal": 3049190.690000001,
+        "successful": 32,
+        "canceled": 22,
+        "failed": 137
+    },
+    {
+        "main_category": "Journalism",
+        "category": "Print",
+        "backers": 26683,
+        "numproj": 727,
+        "totalgoal": 19089089.090000004,
+        "successful": 161,
+        "canceled": 100,
+        "failed": 459
+    },
+    {
+        "main_category": "Journalism",
+        "category": "Video",
+        "backers": 8476,
+        "numproj": 428,
+        "totalgoal": 232337234.07,
+        "successful": 51,
+        "canceled": 34,
+        "failed": 334
+    },
+    {
+        "main_category": "Journalism",
+        "category": "Web",
+        "backers": 41016,
+        "numproj": 1247,
+        "totalgoal": 39311386.879999995,
+        "successful": 185,
+        "canceled": 147,
+        "failed": 887
+    },
+    {
+        "main_category": "Music",
+        "category": "Blues",
+        "backers": 12231,
+        "numproj": 268,
+        "totalgoal": 2819188.8699999996,
+        "successful": 117,
+        "canceled": 31,
+        "failed": 117
+    },
+    {
+        "main_category": "Music",
+        "category": "Chiptune",
+        "backers": 15538,
+        "numproj": 35,
+        "totalgoal": 243601.17999999996,
+        "successful": 27,
+        "canceled": 2,
+        "failed": 6
+    },
+    {
+        "main_category": "Music",
+        "category": "Classical Music",
+        "backers": 140545,
+        "numproj": 2613,
+        "totalgoal": 22253468.9,
+        "successful": 1647,
+        "canceled": 157,
+        "failed": 793
+    },
+    {
+        "main_category": "Music",
+        "category": "Comedy",
+        "backers": 4208,
+        "numproj": 19,
+        "totalgoal": 241826.72999999998,
+        "successful": 7,
+        "canceled": 0,
+        "failed": 10
+    },
+    {
+        "main_category": "Music",
+        "category": "Country & Folk",
+        "backers": 294644,
+        "numproj": 4451,
+        "totalgoal": 97760922.49000001,
+        "successful": 2812,
+        "canceled": 215,
+        "failed": 1401
+    },
+    {
+        "main_category": "Music",
+        "category": "Electronic Music",
+        "backers": 96342,
+        "numproj": 2170,
+        "totalgoal": 24102125.000000015,
+        "successful": 700,
+        "canceled": 245,
+        "failed": 1203
+    },
+    {
+        "main_category": "Music",
+        "category": "Faith",
+        "backers": 48559,
+        "numproj": 1092,
+        "totalgoal": 14251915.050000003,
+        "successful": 456,
+        "canceled": 69,
+        "failed": 551
+    },
+    {
+        "main_category": "Music",
+        "category": "Hip-Hop",
+        "backers": 76388,
+        "numproj": 3912,
+        "totalgoal": 74233025.43000004,
+        "successful": 602,
+        "canceled": 394,
+        "failed": 2857
+    },
+    {
+        "main_category": "Music",
+        "category": "Indie Rock",
+        "backers": 346597,
+        "numproj": 5657,
+        "totalgoal": 34470111.38999998,
+        "successful": 3618,
+        "canceled": 310,
+        "failed": 1711
+    },
+    {
+        "main_category": "Music",
+        "category": "Jazz",
+        "backers": 106652,
+        "numproj": 1850,
+        "totalgoal": 15546803.98,
+        "successful": 1104,
+        "canceled": 85,
+        "failed": 643
+    },
+    {
+        "main_category": "Music",
+        "category": "Kids",
+        "backers": 16343,
+        "numproj": 285,
+        "totalgoal": 3753871.5900000003,
+        "successful": 126,
+        "canceled": 23,
+        "failed": 132
+    },
+    {
+        "main_category": "Music",
+        "category": "Latin",
+        "backers": 4368,
+        "numproj": 137,
+        "totalgoal": 1929867.06,
+        "successful": 38,
+        "canceled": 13,
+        "failed": 83
+    },
+    {
+        "main_category": "Music",
+        "category": "Metal",
+        "backers": 32208,
+        "numproj": 717,
+        "totalgoal": 6730018.399999996,
+        "successful": 275,
+        "canceled": 58,
+        "failed": 369
+    },
+    {
+        "main_category": "Music",
+        "category": "Music",
+        "backers": 865918,
+        "numproj": 15727,
+        "totalgoal": 326035243.0599986,
+        "successful": 6432,
+        "canceled": 728,
+        "failed": 6201
+    },
+    {
+        "main_category": "Music",
+        "category": "Pop",
+        "backers": 179257,
+        "numproj": 3350,
+        "totalgoal": 38626430.289999984,
+        "successful": 1561,
+        "canceled": 273,
+        "failed": 1490
+    },
+    {
+        "main_category": "Music",
+        "category": "Punk",
+        "backers": 10380,
+        "numproj": 317,
+        "totalgoal": 5240045.429999999,
+        "successful": 146,
+        "canceled": 43,
+        "failed": 122
+    },
+    {
+        "main_category": "Music",
+        "category": "R&B",
+        "backers": 11582,
+        "numproj": 458,
+        "totalgoal": 5732068.499999997,
+        "successful": 107,
+        "canceled": 45,
+        "failed": 299
+    },
+    {
+        "main_category": "Music",
+        "category": "Rock",
+        "backers": 333312,
+        "numproj": 6758,
+        "totalgoal": 59178010.389999926,
+        "successful": 3500,
+        "canceled": 471,
+        "failed": 2746
+    },
+    {
+        "main_category": "Music",
+        "category": "World Music",
+        "backers": 113403,
+        "numproj": 2102,
+        "totalgoal": 64943354.86000001,
+        "successful": 922,
+        "canceled": 143,
+        "failed": 1018
+    },
+    {
+        "main_category": "Photography",
+        "category": "Animals",
+        "backers": 10748,
+        "numproj": 255,
+        "totalgoal": 2699555.3100000005,
+        "successful": 63,
+        "canceled": 18,
+        "failed": 166
+    },
+    {
+        "main_category": "Photography",
+        "category": "Fine Art",
+        "backers": 20969,
+        "numproj": 776,
+        "totalgoal": 14583117.900000002,
+        "successful": 283,
+        "canceled": 74,
+        "failed": 403
+    },
+    {
+        "main_category": "Photography",
+        "category": "Nature",
+        "backers": 9304,
+        "numproj": 574,
+        "totalgoal": 14987219.359999988,
+        "successful": 100,
+        "canceled": 68,
+        "failed": 398
+    },
+    {
+        "main_category": "Photography",
+        "category": "People",
+        "backers": 30279,
+        "numproj": 1103,
+        "totalgoal": 12809902.27999999,
+        "successful": 230,
+        "canceled": 120,
+        "failed": 732
+    },
+    {
+        "main_category": "Photography",
+        "category": "Photobooks",
+        "backers": 119472,
+        "numproj": 1580,
+        "totalgoal": 18976606.32999999,
+        "successful": 635,
+        "canceled": 136,
+        "failed": 794
+    },
+    {
+        "main_category": "Photography",
+        "category": "Photography",
+        "backers": 228125,
+        "numproj": 5752,
+        "totalgoal": 61181020.28000001,
+        "successful": 1876,
+        "canceled": 483,
+        "failed": 3370
+    },
+    {
+        "main_category": "Photography",
+        "category": "Places",
+        "backers": 9181,
+        "numproj": 739,
+        "totalgoal": 6986886.770000003,
+        "successful": 118,
+        "canceled": 87,
+        "failed": 521
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Academic",
+        "backers": 37751,
+        "numproj": 916,
+        "totalgoal": 49950908.87999999,
+        "successful": 188,
+        "canceled": 115,
+        "failed": 589
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Anthologies",
+        "backers": 59001,
+        "numproj": 379,
+        "totalgoal": 3615876.029999999,
+        "successful": 218,
+        "canceled": 21,
+        "failed": 133
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Art Books",
+        "backers": 335466,
+        "numproj": 2676,
+        "totalgoal": 29846956.90000003,
+        "successful": 1356,
+        "canceled": 185,
+        "failed": 1113
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Calendars",
+        "backers": 28307,
+        "numproj": 329,
+        "totalgoal": 1982038.1099999992,
+        "successful": 128,
+        "canceled": 30,
+        "failed": 162
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Children's Books",
+        "backers": 410255,
+        "numproj": 6756,
+        "totalgoal": 74885092.99999993,
+        "successful": 2348,
+        "canceled": 513,
+        "failed": 3850
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Comedy",
+        "backers": 13006,
+        "numproj": 75,
+        "totalgoal": 638632.51,
+        "successful": 25,
+        "canceled": 6,
+        "failed": 41
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Fiction",
+        "backers": 256892,
+        "numproj": 9169,
+        "totalgoal": 274025373.1399998,
+        "successful": 2233,
+        "canceled": 999,
+        "failed": 5875
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Letterpress",
+        "backers": 2706,
+        "numproj": 11,
+        "totalgoal": 105283.93,
+        "successful": 6,
+        "canceled": 0,
+        "failed": 4
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Literary Journals",
+        "backers": 21355,
+        "numproj": 278,
+        "totalgoal": 2465948.8800000004,
+        "successful": 133,
+        "canceled": 23,
+        "failed": 118
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Literary Spaces",
+        "backers": 2686,
+        "numproj": 27,
+        "totalgoal": 576153.8900000001,
+        "successful": 13,
+        "canceled": 4,
+        "failed": 6
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Nonfiction",
+        "backers": 385392,
+        "numproj": 8318,
+        "totalgoal": 157464351.75999993,
+        "successful": 2230,
+        "canceled": 845,
+        "failed": 5184
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Periodicals",
+        "backers": 124508,
+        "numproj": 1265,
+        "totalgoal": 18209988.630000003,
+        "successful": 515,
+        "canceled": 112,
+        "failed": 630
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Poetry",
+        "backers": 33462,
+        "numproj": 1369,
+        "totalgoal": 7149181.400000002,
+        "successful": 487,
+        "canceled": 113,
+        "failed": 759
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Publishing",
+        "backers": 346569,
+        "numproj": 6018,
+        "totalgoal": 279999586.47999966,
+        "successful": 1640,
+        "canceled": 433,
+        "failed": 3412
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Radio & Podcasts",
+        "backers": 131227,
+        "numproj": 923,
+        "totalgoal": 12213162.770000001,
+        "successful": 394,
+        "canceled": 70,
+        "failed": 453
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Translations",
+        "backers": 5354,
+        "numproj": 153,
+        "totalgoal": 38856541.319999985,
+        "successful": 35,
+        "canceled": 11,
+        "failed": 102
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Young Adult",
+        "backers": 15927,
+        "numproj": 821,
+        "totalgoal": 32733288.230000008,
+        "successful": 172,
+        "canceled": 96,
+        "failed": 538
+    },
+    {
+        "main_category": "Publishing",
+        "category": "Zines",
+        "backers": 21725,
+        "numproj": 391,
+        "totalgoal": 4086666.01,
+        "successful": 179,
+        "canceled": 26,
+        "failed": 176
+    },
+    {
+        "main_category": "Technology",
+        "category": "3D Printing",
+        "backers": 158779,
+        "numproj": 683,
+        "totalgoal": 31841333.28000004,
+        "successful": 242,
+        "canceled": 91,
+        "failed": 326
+    },
+    {
+        "main_category": "Technology",
+        "category": "Apps",
+        "backers": 144290,
+        "numproj": 6345,
+        "totalgoal": 448612528.97000074,
+        "successful": 378,
+        "canceled": 952,
+        "failed": 4909
+    },
+    {
+        "main_category": "Technology",
+        "category": "Camera Equipment",
+        "backers": 179939,
+        "numproj": 416,
+        "totalgoal": 16585380.099999992,
+        "successful": 192,
+        "canceled": 50,
+        "failed": 158
+    },
+    {
+        "main_category": "Technology",
+        "category": "DIY Electronics",
+        "backers": 223989,
+        "numproj": 902,
+        "totalgoal": 18080270.949999984,
+        "successful": 417,
+        "canceled": 92,
+        "failed": 380
+    },
+    {
+        "main_category": "Technology",
+        "category": "Fabrication Tools",
+        "backers": 29052,
+        "numproj": 250,
+        "totalgoal": 28997473.619999994,
+        "successful": 66,
+        "canceled": 27,
+        "failed": 149
+    },
+    {
+        "main_category": "Technology",
+        "category": "Flight",
+        "backers": 77818,
+        "numproj": 426,
+        "totalgoal": 59307677.87999998,
+        "successful": 76,
+        "canceled": 56,
+        "failed": 278
+    },
+    {
+        "main_category": "Technology",
+        "category": "Gadgets",
+        "backers": 930880,
+        "numproj": 2965,
+        "totalgoal": 155193753.4199998,
+        "successful": 827,
+        "canceled": 484,
+        "failed": 1496
+    },
+    {
+        "main_category": "Technology",
+        "category": "Hardware",
+        "backers": 1136323,
+        "numproj": 3663,
+        "totalgoal": 343623942.8200008,
+        "successful": 1206,
+        "canceled": 476,
+        "failed": 1909
+    },
+    {
+        "main_category": "Technology",
+        "category": "Makerspaces",
+        "backers": 13329,
+        "numproj": 238,
+        "totalgoal": 31127920.790000003,
+        "successful": 76,
+        "canceled": 27,
+        "failed": 132
+    },
+    {
+        "main_category": "Technology",
+        "category": "Robots",
+        "backers": 95266,
+        "numproj": 572,
+        "totalgoal": 107085050.00999996,
+        "successful": 226,
+        "canceled": 65,
+        "failed": 270
+    },
+    {
+        "main_category": "Technology",
+        "category": "Software",
+        "backers": 209973,
+        "numproj": 3048,
+        "totalgoal": 285198881.1399999,
+        "successful": 371,
+        "canceled": 431,
+        "failed": 2202
+    },
+    {
+        "main_category": "Technology",
+        "category": "Sound",
+        "backers": 239754,
+        "numproj": 669,
+        "totalgoal": 31249124.73000001,
+        "successful": 274,
+        "canceled": 96,
+        "failed": 277
+    },
+    {
+        "main_category": "Technology",
+        "category": "Space Exploration",
+        "backers": 99568,
+        "numproj": 323,
+        "totalgoal": 186104095.75999996,
+        "successful": 120,
+        "canceled": 29,
+        "failed": 163
+    },
+    {
+        "main_category": "Technology",
+        "category": "Technology",
+        "backers": 1155297,
+        "numproj": 6930,
+        "totalgoal": 1113795451.910002,
+        "successful": 1317,
+        "canceled": 1019,
+        "failed": 4409
+    },
+    {
+        "main_category": "Technology",
+        "category": "Wearables",
+        "backers": 480791,
+        "numproj": 1233,
+        "totalgoal": 74675659.76999997,
+        "successful": 388,
+        "canceled": 221,
+        "failed": 579
+    },
+    {
+        "main_category": "Technology",
+        "category": "Web",
+        "backers": 181465,
+        "numproj": 3906,
+        "totalgoal": 399957006.55999964,
+        "successful": 258,
+        "canceled": 599,
+        "failed": 2979
+    },
+    {
+        "main_category": "Theater",
+        "category": "Comedy",
+        "backers": 4487,
+        "numproj": 101,
+        "totalgoal": 506834.76000000007,
+        "successful": 61,
+        "canceled": 4,
+        "failed": 31
+    },
+    {
+        "main_category": "Theater",
+        "category": "Experimental",
+        "backers": 16724,
+        "numproj": 373,
+        "totalgoal": 15602236.889999997,
+        "successful": 211,
+        "canceled": 26,
+        "failed": 131
+    },
+    {
+        "main_category": "Theater",
+        "category": "Festivals",
+        "backers": 19830,
+        "numproj": 548,
+        "totalgoal": 15749717.549999995,
+        "successful": 323,
+        "canceled": 34,
+        "failed": 189
+    },
+    {
+        "main_category": "Theater",
+        "category": "Immersive",
+        "backers": 14968,
+        "numproj": 330,
+        "totalgoal": 50091708.540000014,
+        "successful": 169,
+        "canceled": 26,
+        "failed": 128
+    },
+    {
+        "main_category": "Theater",
+        "category": "Musical",
+        "backers": 42138,
+        "numproj": 913,
+        "totalgoal": 49472545.490000024,
+        "successful": 462,
+        "canceled": 76,
+        "failed": 368
+    },
+    {
+        "main_category": "Theater",
+        "category": "Plays",
+        "backers": 51377,
+        "numproj": 1378,
+        "totalgoal": 15603620.360000001,
+        "successful": 804,
+        "canceled": 72,
+        "failed": 487
+    },
+    {
+        "main_category": "Theater",
+        "category": "Spaces",
+        "backers": 21348,
+        "numproj": 213,
+        "totalgoal": 58406327.01,
+        "successful": 99,
+        "canceled": 18,
+        "failed": 95
+    },
+    {
+        "main_category": "Theater",
+        "category": "Theater",
+        "backers": 342664,
+        "numproj": 7057,
+        "totalgoal": 90181859.46999998,
+        "successful": 4405,
+        "canceled": 352,
+        "failed": 2279
+    }
+]

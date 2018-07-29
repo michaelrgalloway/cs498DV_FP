@@ -1,0 +1,1100 @@
+{
+    "category": "kickstarts",
+    "children": [
+        {
+            "category": "Art",
+            "children": [
+                {
+                    "category": "Art",
+                    "backers": 369311,
+                    "numproj": 8253,
+                    "totalgoal": 391113378.27000034
+                },
+                {
+                    "category": "Ceramics",
+                    "backers": 14553,
+                    "numproj": 305,
+                    "totalgoal": 3952272.65
+                },
+                {
+                    "category": "Conceptual Art",
+                    "backers": 27651,
+                    "numproj": 1030,
+                    "totalgoal": 44350479.88999999
+                },
+                {
+                    "category": "Digital Art",
+                    "backers": 43798,
+                    "numproj": 1346,
+                    "totalgoal": 14221205.539999992
+                },
+                {
+                    "category": "Illustration",
+                    "backers": 205419,
+                    "numproj": 3175,
+                    "totalgoal": 91762619.62999982
+                },
+                {
+                    "category": "Installations",
+                    "backers": 23221,
+                    "numproj": 482,
+                    "totalgoal": 72541436.57999995
+                },
+                {
+                    "category": "Mixed Media",
+                    "backers": 82735,
+                    "numproj": 2757,
+                    "totalgoal": 40294917.25000005
+                },
+                {
+                    "category": "Painting",
+                    "backers": 73435,
+                    "numproj": 3294,
+                    "totalgoal": 126773617.09000002
+                },
+                {
+                    "category": "Performance Art",
+                    "backers": 66739,
+                    "numproj": 2154,
+                    "totalgoal": 28692062.780000012
+                },
+                {
+                    "category": "Public Art",
+                    "backers": 189899,
+                    "numproj": 3077,
+                    "totalgoal": 249057560.96
+                },
+                {
+                    "category": "Sculpture",
+                    "backers": 79753,
+                    "numproj": 1810,
+                    "totalgoal": 26540828.580000028
+                },
+                {
+                    "category": "Textiles",
+                    "backers": 7247,
+                    "numproj": 276,
+                    "totalgoal": 9238614.53
+                },
+                {
+                    "category": "Video Art",
+                    "backers": 4439,
+                    "numproj": 194,
+                    "totalgoal": 5018512.97
+                }
+            ]
+        },
+        {
+            "category": "Comics",
+            "children": [
+                {
+                    "category": "Anthologies",
+                    "backers": 119365,
+                    "numproj": 405,
+                    "totalgoal": 3722143.92
+                },
+                {
+                    "category": "Comic Books",
+                    "backers": 238323,
+                    "numproj": 2743,
+                    "totalgoal": 15670888.629999997
+                },
+                {
+                    "category": "Comics",
+                    "backers": 643900,
+                    "numproj": 4996,
+                    "totalgoal": 164392422.25000006
+                },
+                {
+                    "category": "Events",
+                    "backers": 8023,
+                    "numproj": 163,
+                    "totalgoal": 1990826.7499999995
+                },
+                {
+                    "category": "Graphic Novels",
+                    "backers": 285759,
+                    "numproj": 1864,
+                    "totalgoal": 18426536.080000006
+                },
+                {
+                    "category": "Webcomics",
+                    "backers": 162720,
+                    "numproj": 648,
+                    "totalgoal": 7540490.779999997
+                }
+            ]
+        },
+        {
+            "category": "Crafts",
+            "children": [
+                {
+                    "category": "Candles",
+                    "backers": 5038,
+                    "numproj": 429,
+                    "totalgoal": 2446283.9999999986
+                },
+                {
+                    "category": "Crafts",
+                    "backers": 146691,
+                    "numproj": 4664,
+                    "totalgoal": 44945157.3899999
+                },
+                {
+                    "category": "Crochet",
+                    "backers": 1272,
+                    "numproj": 162,
+                    "totalgoal": 598328.9999999999
+                },
+                {
+                    "category": "DIY",
+                    "backers": 20581,
+                    "numproj": 1173,
+                    "totalgoal": 20923312.13000002
+                },
+                {
+                    "category": "Embroidery",
+                    "backers": 1588,
+                    "numproj": 113,
+                    "totalgoal": 503131.89999999997
+                },
+                {
+                    "category": "Glass",
+                    "backers": 2592,
+                    "numproj": 138,
+                    "totalgoal": 1163545.6099999999
+                },
+                {
+                    "category": "Knitting",
+                    "backers": 10990,
+                    "numproj": 181,
+                    "totalgoal": 1084826.1900000004
+                },
+                {
+                    "category": "Letterpress",
+                    "backers": 3372,
+                    "numproj": 38,
+                    "totalgoal": 202275.74999999997
+                },
+                {
+                    "category": "Pottery",
+                    "backers": 4877,
+                    "numproj": 100,
+                    "totalgoal": 730765.5400000003
+                },
+                {
+                    "category": "Printing",
+                    "backers": 4421,
+                    "numproj": 238,
+                    "totalgoal": 1852748.56
+                },
+                {
+                    "category": "Quilts",
+                    "backers": 1893,
+                    "numproj": 81,
+                    "totalgoal": 958721.4199999999
+                },
+                {
+                    "category": "Stationery",
+                    "backers": 10225,
+                    "numproj": 219,
+                    "totalgoal": 828413.0800000004
+                },
+                {
+                    "category": "Taxidermy",
+                    "backers": 519,
+                    "numproj": 13,
+                    "totalgoal": 321390.12
+                },
+                {
+                    "category": "Weaving",
+                    "backers": 3671,
+                    "numproj": 93,
+                    "totalgoal": 1823907.0699999998
+                },
+                {
+                    "category": "Woodworking",
+                    "backers": 22612,
+                    "numproj": 1167,
+                    "totalgoal": 13534405.240000004
+                }
+            ]
+        },
+        {
+            "category": "Dance",
+            "children": [
+                {
+                    "category": "Dance",
+                    "backers": 106193,
+                    "numproj": 2322,
+                    "totalgoal": 18189072.27
+                },
+                {
+                    "category": "Performances",
+                    "backers": 40469,
+                    "numproj": 1013,
+                    "totalgoal": 11277747.159999996
+                },
+                {
+                    "category": "Residencies",
+                    "backers": 2751,
+                    "numproj": 69,
+                    "totalgoal": 814404.7200000001
+                },
+                {
+                    "category": "Spaces",
+                    "backers": 8440,
+                    "numproj": 200,
+                    "totalgoal": 4247614.6099999985
+                },
+                {
+                    "category": "Workshops",
+                    "backers": 3422,
+                    "numproj": 164,
+                    "totalgoal": 1599983.2100000007
+                }
+            ]
+        },
+        {
+            "category": "Design",
+            "children": [
+                {
+                    "category": "Architecture",
+                    "backers": 39362,
+                    "numproj": 760,
+                    "totalgoal": 315000866.2599999
+                },
+                {
+                    "category": "Civic Design",
+                    "backers": 34991,
+                    "numproj": 289,
+                    "totalgoal": 44472777.71
+                },
+                {
+                    "category": "Design",
+                    "backers": 755421,
+                    "numproj": 4199,
+                    "totalgoal": 169476957.53999996
+                },
+                {
+                    "category": "Graphic Design",
+                    "backers": 197703,
+                    "numproj": 2002,
+                    "totalgoal": 13757311.47000001
+                },
+                {
+                    "category": "Interactive Design",
+                    "backers": 18533,
+                    "numproj": 398,
+                    "totalgoal": 15510600.639999999
+                },
+                {
+                    "category": "Product Design",
+                    "backers": 6178913,
+                    "numproj": 22314,
+                    "totalgoal": 699227886.5999992
+                },
+                {
+                    "category": "Typography",
+                    "backers": 30957,
+                    "numproj": 108,
+                    "totalgoal": 1626254.7200000002
+                }
+            ]
+        },
+        {
+            "category": "Fashion",
+            "children": [
+                {
+                    "category": "Accessories",
+                    "backers": 256036,
+                    "numproj": 3165,
+                    "totalgoal": 46473951.23999995
+                },
+                {
+                    "category": "Apparel",
+                    "backers": 367844,
+                    "numproj": 7166,
+                    "totalgoal": 239120408.1899997
+                },
+                {
+                    "category": "Childrenswear",
+                    "backers": 19586,
+                    "numproj": 483,
+                    "totalgoal": 7737936.05
+                },
+                {
+                    "category": "Couture",
+                    "backers": 3321,
+                    "numproj": 275,
+                    "totalgoal": 15628688.88
+                },
+                {
+                    "category": "Fashion",
+                    "backers": 564869,
+                    "numproj": 8554,
+                    "totalgoal": 130956198.36000009
+                },
+                {
+                    "category": "Footwear",
+                    "backers": 127292,
+                    "numproj": 931,
+                    "totalgoal": 22562099.11
+                },
+                {
+                    "category": "Jewelry",
+                    "backers": 32893,
+                    "numproj": 1239,
+                    "totalgoal": 13250210.479999993
+                },
+                {
+                    "category": "Pet Fashion",
+                    "backers": 4022,
+                    "numproj": 139,
+                    "totalgoal": 1628279.67
+                },
+                {
+                    "category": "Ready-to-wear",
+                    "backers": 26130,
+                    "numproj": 864,
+                    "totalgoal": 34003760.01000003
+                }
+            ]
+        },
+        {
+            "category": "Film & Video",
+            "children": [
+                {
+                    "category": "Action",
+                    "backers": 34708,
+                    "numproj": 740,
+                    "totalgoal": 234695945.32000005
+                },
+                {
+                    "category": "Animation",
+                    "backers": 333433,
+                    "numproj": 2541,
+                    "totalgoal": 232377785.67
+                },
+                {
+                    "category": "Comedy",
+                    "backers": 166844,
+                    "numproj": 2125,
+                    "totalgoal": 178360626.07999998
+                },
+                {
+                    "category": "Documentary",
+                    "backers": 1447677,
+                    "numproj": 16139,
+                    "totalgoal": 853075387.2900012
+                },
+                {
+                    "category": "Drama",
+                    "backers": 80512,
+                    "numproj": 2179,
+                    "totalgoal": 409277787.9300001
+                },
+                {
+                    "category": "Experimental",
+                    "backers": 9591,
+                    "numproj": 551,
+                    "totalgoal": 41594148.840000026
+                },
+                {
+                    "category": "Family",
+                    "backers": 13742,
+                    "numproj": 336,
+                    "totalgoal": 25829950.350000005
+                },
+                {
+                    "category": "Fantasy",
+                    "backers": 37105,
+                    "numproj": 345,
+                    "totalgoal": 198457480.58999985
+                },
+                {
+                    "category": "Festivals",
+                    "backers": 13684,
+                    "numproj": 291,
+                    "totalgoal": 6379271.639999999
+                },
+                {
+                    "category": "Film & Video",
+                    "backers": 479206,
+                    "numproj": 10108,
+                    "totalgoal": 820154987.82
+                },
+                {
+                    "category": "Horror",
+                    "backers": 55501,
+                    "numproj": 1287,
+                    "totalgoal": 187869479.44000003
+                },
+                {
+                    "category": "Movie Theaters",
+                    "backers": 23450,
+                    "numproj": 232,
+                    "totalgoal": 372150564.3500001
+                },
+                {
+                    "category": "Music Videos",
+                    "backers": 17623,
+                    "numproj": 709,
+                    "totalgoal": 11140071.799999997
+                },
+                {
+                    "category": "Narrative Film",
+                    "backers": 540739,
+                    "numproj": 5188,
+                    "totalgoal": 347732185.6100002
+                },
+                {
+                    "category": "Romance",
+                    "backers": 7316,
+                    "numproj": 190,
+                    "totalgoal": 11085714.579999996
+                },
+                {
+                    "category": "Science Fiction",
+                    "backers": 67693,
+                    "numproj": 744,
+                    "totalgoal": 301411271.03000015
+                },
+                {
+                    "category": "Shorts",
+                    "backers": 453889,
+                    "numproj": 12357,
+                    "totalgoal": 250109061.3300002
+                },
+                {
+                    "category": "Television",
+                    "backers": 75998,
+                    "numproj": 1015,
+                    "totalgoal": 449339085.0000002
+                },
+                {
+                    "category": "Thrillers",
+                    "backers": 26698,
+                    "numproj": 746,
+                    "totalgoal": 189354716.77000016
+                },
+                {
+                    "category": "Webseries",
+                    "backers": 312168,
+                    "numproj": 5762,
+                    "totalgoal": 133333686.50999992
+                }
+            ]
+        },
+        {
+            "category": "Food",
+            "children": [
+                {
+                    "category": "Bacon",
+                    "backers": 5075,
+                    "numproj": 221,
+                    "totalgoal": 4981063.709999999
+                },
+                {
+                    "category": "Community Gardens",
+                    "backers": 5561,
+                    "numproj": 298,
+                    "totalgoal": 13361747.870000001
+                },
+                {
+                    "category": "Cookbooks",
+                    "backers": 53637,
+                    "numproj": 540,
+                    "totalgoal": 8110416.110000002
+                },
+                {
+                    "category": "Drinks",
+                    "backers": 135486,
+                    "numproj": 2422,
+                    "totalgoal": 124371854.51000006
+                },
+                {
+                    "category": "Events",
+                    "backers": 9621,
+                    "numproj": 655,
+                    "totalgoal": 22952029.599999998
+                },
+                {
+                    "category": "Farmer's Markets",
+                    "backers": 7608,
+                    "numproj": 424,
+                    "totalgoal": 14059425.569999991
+                },
+                {
+                    "category": "Farms",
+                    "backers": 39480,
+                    "numproj": 1154,
+                    "totalgoal": 135331508.17999995
+                },
+                {
+                    "category": "Food",
+                    "backers": 766977,
+                    "numproj": 11493,
+                    "totalgoal": 460953244.52999985
+                },
+                {
+                    "category": "Food Trucks",
+                    "backers": 34446,
+                    "numproj": 1752,
+                    "totalgoal": 48985926.05999996
+                },
+                {
+                    "category": "Restaurants",
+                    "backers": 102755,
+                    "numproj": 2819,
+                    "totalgoal": 309227567.6500004
+                },
+                {
+                    "category": "Small Batch",
+                    "backers": 92287,
+                    "numproj": 1808,
+                    "totalgoal": 24459495.630000025
+                },
+                {
+                    "category": "Spaces",
+                    "backers": 29566,
+                    "numproj": 428,
+                    "totalgoal": 21227241.229999997
+                },
+                {
+                    "category": "Vegan",
+                    "backers": 50252,
+                    "numproj": 588,
+                    "totalgoal": 18451230.369999994
+                }
+            ]
+        },
+        {
+            "category": "Games",
+            "children": [
+                {
+                    "category": "Games",
+                    "backers": 269076,
+                    "numproj": 3226,
+                    "totalgoal": 169169824.15999982
+                },
+                {
+                    "category": "Gaming Hardware",
+                    "backers": 121584,
+                    "numproj": 428,
+                    "totalgoal": 33078589.149999995
+                },
+                {
+                    "category": "Live Games",
+                    "backers": 24534,
+                    "numproj": 1050,
+                    "totalgoal": 181148503.9899999
+                },
+                {
+                    "category": "Mobile Games",
+                    "backers": 37240,
+                    "numproj": 1789,
+                    "totalgoal": 53324185.26
+                },
+                {
+                    "category": "Playing Cards",
+                    "backers": 388885,
+                    "numproj": 2497,
+                    "totalgoal": 26797932.54000003
+                },
+                {
+                    "category": "Puzzles",
+                    "backers": 26800,
+                    "numproj": 231,
+                    "totalgoal": 2964377.740000001
+                },
+                {
+                    "category": "Tabletop Games",
+                    "backers": 6049205,
+                    "numproj": 14180,
+                    "totalgoal": 208380561.52999997
+                },
+                {
+                    "category": "Video Games",
+                    "backers": 4419505,
+                    "numproj": 11830,
+                    "totalgoal": 907844359.1700017
+                }
+            ]
+        },
+        {
+            "category": "Journalism",
+            "children": [
+                {
+                    "category": "Audio",
+                    "backers": 22205,
+                    "numproj": 410,
+                    "totalgoal": 6864734.6499999985
+                },
+                {
+                    "category": "Journalism",
+                    "backers": 79379,
+                    "numproj": 1747,
+                    "totalgoal": 108294507.90999997
+                },
+                {
+                    "category": "Photo",
+                    "backers": 4332,
+                    "numproj": 196,
+                    "totalgoal": 3049190.690000001
+                },
+                {
+                    "category": "Print",
+                    "backers": 26683,
+                    "numproj": 727,
+                    "totalgoal": 19089089.090000004
+                },
+                {
+                    "category": "Video",
+                    "backers": 8476,
+                    "numproj": 428,
+                    "totalgoal": 232337234.07
+                },
+                {
+                    "category": "Web",
+                    "backers": 41016,
+                    "numproj": 1247,
+                    "totalgoal": 39311386.879999995
+                }
+            ]
+        },
+        {
+            "category": "Music",
+            "children": [
+                {
+                    "category": "Blues",
+                    "backers": 12231,
+                    "numproj": 268,
+                    "totalgoal": 2819188.8699999996
+                },
+                {
+                    "category": "Chiptune",
+                    "backers": 15538,
+                    "numproj": 35,
+                    "totalgoal": 243601.17999999996
+                },
+                {
+                    "category": "Classical Music",
+                    "backers": 140545,
+                    "numproj": 2613,
+                    "totalgoal": 22253468.9
+                },
+                {
+                    "category": "Comedy",
+                    "backers": 4208,
+                    "numproj": 19,
+                    "totalgoal": 241826.72999999998
+                },
+                {
+                    "category": "Country & Folk",
+                    "backers": 294644,
+                    "numproj": 4451,
+                    "totalgoal": 97760922.49000001
+                },
+                {
+                    "category": "Electronic Music",
+                    "backers": 96342,
+                    "numproj": 2170,
+                    "totalgoal": 24102125.000000015
+                },
+                {
+                    "category": "Faith",
+                    "backers": 48559,
+                    "numproj": 1092,
+                    "totalgoal": 14251915.050000003
+                },
+                {
+                    "category": "Hip-Hop",
+                    "backers": 76388,
+                    "numproj": 3912,
+                    "totalgoal": 74233025.43000004
+                },
+                {
+                    "category": "Indie Rock",
+                    "backers": 346597,
+                    "numproj": 5657,
+                    "totalgoal": 34470111.38999998
+                },
+                {
+                    "category": "Jazz",
+                    "backers": 106652,
+                    "numproj": 1850,
+                    "totalgoal": 15546803.98
+                },
+                {
+                    "category": "Kids",
+                    "backers": 16343,
+                    "numproj": 285,
+                    "totalgoal": 3753871.5900000003
+                },
+                {
+                    "category": "Latin",
+                    "backers": 4368,
+                    "numproj": 137,
+                    "totalgoal": 1929867.06
+                },
+                {
+                    "category": "Metal",
+                    "backers": 32208,
+                    "numproj": 717,
+                    "totalgoal": 6730018.399999996
+                },
+                {
+                    "category": "Music",
+                    "backers": 865918,
+                    "numproj": 15727,
+                    "totalgoal": 326035243.0599986
+                },
+                {
+                    "category": "Pop",
+                    "backers": 179257,
+                    "numproj": 3350,
+                    "totalgoal": 38626430.289999984
+                },
+                {
+                    "category": "Punk",
+                    "backers": 10380,
+                    "numproj": 317,
+                    "totalgoal": 5240045.429999999
+                },
+                {
+                    "category": "R&B",
+                    "backers": 11582,
+                    "numproj": 458,
+                    "totalgoal": 5732068.499999997
+                },
+                {
+                    "category": "Rock",
+                    "backers": 333312,
+                    "numproj": 6758,
+                    "totalgoal": 59178010.389999926
+                },
+                {
+                    "category": "World Music",
+                    "backers": 113403,
+                    "numproj": 2102,
+                    "totalgoal": 64943354.86000001
+                }
+            ]
+        },
+        {
+            "category": "Photography",
+            "children": [
+                {
+                    "category": "Animals",
+                    "backers": 10748,
+                    "numproj": 255,
+                    "totalgoal": 2699555.3100000005
+                },
+                {
+                    "category": "Fine Art",
+                    "backers": 20969,
+                    "numproj": 776,
+                    "totalgoal": 14583117.900000002
+                },
+                {
+                    "category": "Nature",
+                    "backers": 9304,
+                    "numproj": 574,
+                    "totalgoal": 14987219.359999988
+                },
+                {
+                    "category": "People",
+                    "backers": 30279,
+                    "numproj": 1103,
+                    "totalgoal": 12809902.27999999
+                },
+                {
+                    "category": "Photobooks",
+                    "backers": 119472,
+                    "numproj": 1580,
+                    "totalgoal": 18976606.32999999
+                },
+                {
+                    "category": "Photography",
+                    "backers": 228125,
+                    "numproj": 5752,
+                    "totalgoal": 61181020.28000001
+                },
+                {
+                    "category": "Places",
+                    "backers": 9181,
+                    "numproj": 739,
+                    "totalgoal": 6986886.770000003
+                }
+            ]
+        },
+        {
+            "category": "Publishing",
+            "children": [
+                {
+                    "category": "Academic",
+                    "backers": 37751,
+                    "numproj": 916,
+                    "totalgoal": 49950908.87999999
+                },
+                {
+                    "category": "Anthologies",
+                    "backers": 59001,
+                    "numproj": 379,
+                    "totalgoal": 3615876.029999999
+                },
+                {
+                    "category": "Art Books",
+                    "backers": 335466,
+                    "numproj": 2676,
+                    "totalgoal": 29846956.90000003
+                },
+                {
+                    "category": "Calendars",
+                    "backers": 28307,
+                    "numproj": 329,
+                    "totalgoal": 1982038.1099999992
+                },
+                {
+                    "category": "Children's Books",
+                    "backers": 410255,
+                    "numproj": 6756,
+                    "totalgoal": 74885092.99999993
+                },
+                {
+                    "category": "Comedy",
+                    "backers": 13006,
+                    "numproj": 75,
+                    "totalgoal": 638632.51
+                },
+                {
+                    "category": "Fiction",
+                    "backers": 256892,
+                    "numproj": 9169,
+                    "totalgoal": 274025373.1399998
+                },
+                {
+                    "category": "Letterpress",
+                    "backers": 2706,
+                    "numproj": 11,
+                    "totalgoal": 105283.93
+                },
+                {
+                    "category": "Literary Journals",
+                    "backers": 21355,
+                    "numproj": 278,
+                    "totalgoal": 2465948.8800000004
+                },
+                {
+                    "category": "Literary Spaces",
+                    "backers": 2686,
+                    "numproj": 27,
+                    "totalgoal": 576153.8900000001
+                },
+                {
+                    "category": "Nonfiction",
+                    "backers": 385392,
+                    "numproj": 8318,
+                    "totalgoal": 157464351.75999993
+                },
+                {
+                    "category": "Periodicals",
+                    "backers": 124508,
+                    "numproj": 1265,
+                    "totalgoal": 18209988.630000003
+                },
+                {
+                    "category": "Poetry",
+                    "backers": 33462,
+                    "numproj": 1369,
+                    "totalgoal": 7149181.400000002
+                },
+                {
+                    "category": "Publishing",
+                    "backers": 346569,
+                    "numproj": 6018,
+                    "totalgoal": 279999586.47999966
+                },
+                {
+                    "category": "Radio & Podcasts",
+                    "backers": 131227,
+                    "numproj": 923,
+                    "totalgoal": 12213162.770000001
+                },
+                {
+                    "category": "Translations",
+                    "backers": 5354,
+                    "numproj": 153,
+                    "totalgoal": 38856541.319999985
+                },
+                {
+                    "category": "Young Adult",
+                    "backers": 15927,
+                    "numproj": 821,
+                    "totalgoal": 32733288.230000008
+                },
+                {
+                    "category": "Zines",
+                    "backers": 21725,
+                    "numproj": 391,
+                    "totalgoal": 4086666.01
+                }
+            ]
+        },
+        {
+            "category": "Technology",
+            "children": [
+                {
+                    "category": "3D Printing",
+                    "backers": 158779,
+                    "numproj": 683,
+                    "totalgoal": 31841333.28000004
+                },
+                {
+                    "category": "Apps",
+                    "backers": 144290,
+                    "numproj": 6345,
+                    "totalgoal": 448612528.97000074
+                },
+                {
+                    "category": "Camera Equipment",
+                    "backers": 179939,
+                    "numproj": 416,
+                    "totalgoal": 16585380.099999992
+                },
+                {
+                    "category": "DIY Electronics",
+                    "backers": 223989,
+                    "numproj": 902,
+                    "totalgoal": 18080270.949999984
+                },
+                {
+                    "category": "Fabrication Tools",
+                    "backers": 29052,
+                    "numproj": 250,
+                    "totalgoal": 28997473.619999994
+                },
+                {
+                    "category": "Flight",
+                    "backers": 77818,
+                    "numproj": 426,
+                    "totalgoal": 59307677.87999998
+                },
+                {
+                    "category": "Gadgets",
+                    "backers": 930880,
+                    "numproj": 2965,
+                    "totalgoal": 155193753.4199998
+                },
+                {
+                    "category": "Hardware",
+                    "backers": 1136323,
+                    "numproj": 3663,
+                    "totalgoal": 343623942.8200008
+                },
+                {
+                    "category": "Makerspaces",
+                    "backers": 13329,
+                    "numproj": 238,
+                    "totalgoal": 31127920.790000003
+                },
+                {
+                    "category": "Robots",
+                    "backers": 95266,
+                    "numproj": 572,
+                    "totalgoal": 107085050.00999996
+                },
+                {
+                    "category": "Software",
+                    "backers": 209973,
+                    "numproj": 3048,
+                    "totalgoal": 285198881.1399999
+                },
+                {
+                    "category": "Sound",
+                    "backers": 239754,
+                    "numproj": 669,
+                    "totalgoal": 31249124.73000001
+                },
+                {
+                    "category": "Space Exploration",
+                    "backers": 99568,
+                    "numproj": 323,
+                    "totalgoal": 186104095.75999996
+                },
+                {
+                    "category": "Technology",
+                    "backers": 1155297,
+                    "numproj": 6930,
+                    "totalgoal": 1113795451.910002
+                },
+                {
+                    "category": "Wearables",
+                    "backers": 480791,
+                    "numproj": 1233,
+                    "totalgoal": 74675659.76999997
+                },
+                {
+                    "category": "Web",
+                    "backers": 181465,
+                    "numproj": 3906,
+                    "totalgoal": 399957006.55999964
+                }
+            ]
+        },
+        {
+            "category": "Theater",
+            "children": [
+                {
+                    "category": "Comedy",
+                    "backers": 4487,
+                    "numproj": 101,
+                    "totalgoal": 506834.76000000007
+                },
+                {
+                    "category": "Experimental",
+                    "backers": 16724,
+                    "numproj": 373,
+                    "totalgoal": 15602236.889999997
+                },
+                {
+                    "category": "Festivals",
+                    "backers": 19830,
+                    "numproj": 548,
+                    "totalgoal": 15749717.549999995
+                },
+                {
+                    "category": "Immersive",
+                    "backers": 14968,
+                    "numproj": 330,
+                    "totalgoal": 50091708.540000014
+                },
+                {
+                    "category": "Musical",
+                    "backers": 42138,
+                    "numproj": 913,
+                    "totalgoal": 49472545.490000024
+                },
+                {
+                    "category": "Plays",
+                    "backers": 51377,
+                    "numproj": 1378,
+                    "totalgoal": 15603620.360000001
+                },
+                {
+                    "category": "Spaces",
+                    "backers": 21348,
+                    "numproj": 213,
+                    "totalgoal": 58406327.01
+                },
+                {
+                    "category": "Theater",
+                    "backers": 342664,
+                    "numproj": 7057,
+                    "totalgoal": 90181859.46999998
+                }
+            ]
+        }
+    ]
+}
